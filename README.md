@@ -9,7 +9,7 @@ Creating Joint Savings Account in Solidity
 Executing Deposit and Withdraw to validate contract
 <br>
 
-![Deploying Solidity Contract](Joint_Account_Solidity_Deployed.png)
+![Deploying Solidity Contract](Images/Joint_Account_Solidity_Deployed.png)
 
 <br>
 <br>
@@ -19,7 +19,7 @@ Executing Deposit and Withdraw to validate contract
  Setting accounts 1 & 2
 <br>
 
-![Setting Accounts 1& 2](Setting_Accounts_1&2.png)
+![Setting Accounts 1& 2](Images/Setting_Accounts_1&2.png)
 <br>
 <br>
 <br>
@@ -28,9 +28,9 @@ Executing Deposit and Withdraw to validate contract
  Depositing 1ETH in Wei
 <br>
 
-![Deposit 1ETH in Wei and Balance](Sending_1_Ether_inWei.png)
+![Deposit 1ETH in Wei and Balance](Images/Sending_1_Ether_inWei.png)
 
-![Deposit 1ETH in Wei and Balance](Contract_Balnce_1ETH.png)
+![Deposit 1ETH in Wei and Balance](Images/Contract_Balnce_1ETH.png)
 
 
 <br>
@@ -70,7 +70,7 @@ Error withdrawing 0.5 ETH instead of 5ETH
 Withdrawing 10ETH 
 <br>
 
-![Withdrawing 10ETH](Withdraw_10ETH&BALANCE.png)
+![Withdrawing 10ETH](Images/Withdraw_10ETH&BALANCE.png)
 
 <br>
 <br>
@@ -81,7 +81,7 @@ Withdrawing 10ETH
  Withdrawing 5ETH 
 <br>
 
-![Withdrawing 5ETH](Withdraw_5ETH_andBal.png)
+![Withdrawing 5ETH](Images/Withdraw_5ETH_andBal.png)
 
 <br>
 <br>
